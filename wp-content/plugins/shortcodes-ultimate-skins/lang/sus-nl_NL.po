@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Ultimate: Additional Skins v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-28 11:54+0100\n"
+"Last-Translator: J.L.Dokter <jldokter@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ sus
+#. translators: plugin header field 'Name'
+#: inc/class.skins.php:15 shortcodes-ultimate-skins.php:0
+msgid "Shortcodes Ultimate: Additional Skins"
+msgstr "Shortcodes Ultimate: Toegevoegde Skins"
+
+# @ sus
+#. translators: plugin header field 'Author'
+#: inc/class.skins.php:16 shortcodes-ultimate-skins.php:0
+msgid "Vladimir Anokhin"
+msgstr "Vladimir Anokhin"
+
+# @ sus
+#. translators: plugin header field 'Description'
+#: inc/class.skins.php:17 shortcodes-ultimate-skins.php:0
+msgid "Extra set of skins for Shortcodes Ultimate"
+msgstr "Extra set van skins voor Shortcodes Ultimate"
+
+# @ sus
+#: inc/class.skins.php:47
+msgid ""
+"Please install and activate latest version of <b>Shortcodes Ultimate</b> to "
+"use it's addon <b>Shortcodes Ultimate Skins</b>.<br />Deactivate this addon "
+"to hide this message."
+msgstr ""
+"Installeer en activeer de nieuwste versie van <b>Shortcodes Ultimate</b>  om "
+"de Add-On <b>Shortcodes Ultimate Skins</b>.<br /> te kunnen gebruiken. De-"
+"activeer deze Add-On om dit bericht te verbergen."
+
+# @ sus
+#: inc/class.skins.php:48
+msgid "Install Sortcodes Ultimate"
+msgstr "Installeer Shortcodes Ultimate"
+
+# @ sus
+#: inc/class.skins.php:79 inc/class.skins.php:80 inc/class.skins.php:81
+#: inc/class.skins.php:82 inc/class.skins.php:83 inc/class.skins.php:84
+#: inc/class.skins.php:85 inc/class.skins.php:86 inc/class.skins.php:87
+#: inc/class.skins.php:88 inc/class.skins.php:109 inc/class.skins.php:110
+#: inc/class.skins.php:111 inc/class.skins.php:112 inc/class.skins.php:124
+#: inc/class.skins.php:125 inc/class.skins.php:126 inc/class.skins.php:127
+#: inc/class.skins.php:138 inc/class.skins.php:139 inc/class.skins.php:140
+#: inc/class.skins.php:141 inc/class.skins.php:142
+msgid "Modern"
+msgstr "Modern"
+
+# @ sus
+#: inc/class.skins.php:79 inc/class.skins.php:84 inc/class.skins.php:89
+#: inc/class.skins.php:94 inc/class.skins.php:99 inc/class.skins.php:109
+#: inc/class.skins.php:113 inc/class.skins.php:124 inc/class.skins.php:128
+#: inc/class.skins.php:138 inc/class.skins.php:143
+msgid "Dark"
+msgstr "Donker"
+
+# @ sus
+#: inc/class.skins.php:80 inc/class.skins.php:85 inc/class.skins.php:90
+#: inc/class.skins.php:95 inc/class.skins.php:100 inc/class.skins.php:110
+#: inc/class.skins.php:114 inc/class.skins.php:125 inc/class.skins.php:129
+#: inc/class.skins.php:139 inc/class.skins.php:144
+msgid "Light"
+msgstr "Licht"
+
+# @ sus
+#: inc/class.skins.php:81 inc/class.skins.php:86 inc/class.skins.php:91
+#: inc/class.skins.php:96 inc/class.skins.php:101 inc/class.skins.php:115
+#: inc/class.skins.php:126 inc/class.skins.php:130 inc/class.skins.php:140
+#: inc/class.skins.php:145
+msgid "Blue"
+msgstr "Blauw"
+
+# @ sus
+#: inc/class.skins.php:82 inc/class.skins.php:87 inc/class.skins.php:92
+#: inc/class.skins.php:97 inc/class.skins.php:112 inc/class.skins.php:127
+#: inc/class.skins.php:141
+msgid "Orange"
+msgstr "Oranje"
+
+# @ sus
+#: inc/class.skins.php:83 inc/class.skins.php:88 inc/class.skins.php:93
+#: inc/class.skins.php:98 inc/class.skins.php:111 inc/class.skins.php:142
+msgid "Violet"
+msgstr "Paars"
+
+# @ sus
+#: inc/class.skins.php:89 inc/class.skins.php:90 inc/class.skins.php:91
+#: inc/class.skins.php:92 inc/class.skins.php:93
+msgid "Line"
+msgstr "Lijn"
+
+# @ sus
+#: inc/class.skins.php:94 inc/class.skins.php:95 inc/class.skins.php:96
+#: inc/class.skins.php:97 inc/class.skins.php:98
+msgid "Dotted line"
+msgstr "Onderbroken lijn"
+
+# @ sus
+#: inc/class.skins.php:99 inc/class.skins.php:100 inc/class.skins.php:101
+#: inc/class.skins.php:102 inc/class.skins.php:128 inc/class.skins.php:129
+#: inc/class.skins.php:130 inc/class.skins.php:131 inc/class.skins.php:143
+#: inc/class.skins.php:144 inc/class.skins.php:145 inc/class.skins.php:146
+msgid "Flat"
+msgstr "Vlak"
+
+# @ sus
+#: inc/class.skins.php:102 inc/class.skins.php:116 inc/class.skins.php:131
+#: inc/class.skins.php:146
+msgid "Green"
+msgstr "Groen"
+
+# @ sus
+#: inc/class.skins.php:104 inc/class.skins.php:119 inc/class.skins.php:133
+msgid "Carbon"
+msgstr "Antraciet"
+
+# @ sus
+#: inc/class.skins.php:105 inc/class.skins.php:120 inc/class.skins.php:134
+msgid "Sharp"
+msgstr "Scherp"
+
+# @ sus
+#: inc/class.skins.php:106 inc/class.skins.php:121 inc/class.skins.php:135
+msgid "Grid"
+msgstr "Raster"
+
+# @ sus
+#: inc/class.skins.php:107 inc/class.skins.php:122 inc/class.skins.php:136
+msgid "Wood"
+msgstr "Hout"
+
+# @ sus
+#: inc/class.skins.php:108 inc/class.skins.php:123 inc/class.skins.php:137
+msgid "Fabric"
+msgstr "Stof"
+
+# @ sus
+#: inc/class.skins.php:113 inc/class.skins.php:114 inc/class.skins.php:115
+#: inc/class.skins.php:116 inc/class.skins.php:117
+msgid "Glass"
+msgstr "Glas"
+
+# @ sus
+#: inc/class.skins.php:117
+msgid "Gold"
+msgstr "Goud"
+
+# @ sus
+#: inc/class.skins.php:152
+msgid "Shortcodes Ultimate Skins"
+msgstr "Shortcodes Ultimate Skins"
+
+# @ sus
+#: inc/class.skins.php:155
+msgid "Heading skins"
+msgstr "Titel skins"
+
+# @ sus
+#: inc/class.skins.php:161
+msgid "Spoiler skins"
+msgstr "Spoiler skins"
+
+# @ sus
+#: inc/class.skins.php:167
+msgid "Tabs skins"
+msgstr "Tab skins"
+
+# @ sus
+#: inc/class.skins.php:173
+msgid "Quote skins"
+msgstr "Citaat skins"
+
+# @ sus
+#. translators: plugin header field 'PluginURI'
+#: shortcodes-ultimate-skins.php:0
+msgid "http://gndev.info/shortcodes-ultimate/skins/"
+msgstr "http://gndev.info/shortcodes-ultimate/skins/"
+
+# @ sus
+#. translators: plugin header field 'AuthorURI'
+#: shortcodes-ultimate-skins.php:0
+msgid "http://gndev.info/"
+msgstr "http://gndev.info/"
+
+# @ sus
+#. translators: plugin header field 'Version'
+#: shortcodes-ultimate-skins.php:0
+msgid "1.1.0"
+msgstr "1.1.0"

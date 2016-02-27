@@ -1,0 +1,129 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/reusable-text-blocks\n"
+"POT-Creation-Date: 2015-04-07 05:37:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: text-blocks.php:62 text-blocks.php:74
+msgid "Text Blocks"
+msgstr ""
+
+#: text-blocks.php:63
+msgid "Text Block"
+msgstr ""
+
+#: text-blocks.php:64
+msgid "Add New"
+msgstr ""
+
+#: text-blocks.php:65
+msgid "Add New Block"
+msgstr ""
+
+#: text-blocks.php:66
+msgid "Edit Text Block"
+msgstr ""
+
+#: text-blocks.php:67
+msgid "New Block"
+msgstr ""
+
+#: text-blocks.php:68
+msgid "All Text Blocks"
+msgstr ""
+
+#: text-blocks.php:69
+msgid "View Block"
+msgstr ""
+
+#: text-blocks.php:70
+msgid "Search Text Blocks"
+msgstr ""
+
+#: text-blocks.php:71
+msgid "No blocks found"
+msgstr ""
+
+#: text-blocks.php:72
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: text-blocks.php:134
+msgid "Title"
+msgstr ""
+
+#: text-blocks.php:135
+msgid "Shortcode"
+msgstr ""
+
+#: text-blocks.php:136
+msgid "Text"
+msgstr ""
+
+#: text-blocks.php:166
+msgid "Text Block Shortcode"
+msgstr ""
+
+#: text-blocks.php:176
+msgid "Like WordPress Content:"
+msgstr ""
+
+#: text-blocks.php:178
+msgid "No extra markup:"
+msgstr ""
+
+#: text-blocks.php:180
+msgid "In Theme Template:"
+msgstr ""
+
+#: text-blocks.php:182
+msgid "Put one of the above codes wherever you want the text block to appear"
+msgstr ""
+
+#: text-blocks.php:231
+msgid "Title:"
+msgstr ""
+
+#: text-blocks.php:235
+msgid "Text Block:"
+msgstr ""
+
+#: text-blocks.php:245
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: text-blocks.php:249
+msgid "Hide widget title on front end"
+msgstr ""
+
+#: text-blocks.php:320
+msgid "Add Block"
+msgstr ""
+
+#: text-blocks.php:339
+msgid "You must choose a block"
+msgstr ""
+
+#: text-blocks.php:354
+msgid "Choose a Text Block"
+msgstr ""
+
+#: text-blocks.php:362
+msgid "No text blocks have been created yet. Please create one first and then you will be able to select it here."
+msgstr ""
+
+#: text-blocks.php:365
+msgid "Insert Block"
+msgstr ""
+
+#: text-blocks.php:366
+msgid "Cancel"
+msgstr ""

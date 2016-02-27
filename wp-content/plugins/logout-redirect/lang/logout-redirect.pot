@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Logout Redirect\n"
+"POT-Creation-Date: 2014-03-05 19:54+0800\n"
+"PO-Revision-Date: 2014-03-05 19:54+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: logout-redirect.php:48
+msgid "Settings"
+msgstr ""
+
+#: options.php:11 options.php:66
+msgid "Logout Redirect Options Page"
+msgstr ""
+
+#: options.php:11
+msgid "Logout Redirect"
+msgstr ""
+
+#: options.php:69
+msgid "General Options"
+msgstr ""
+
+#: options.php:73
+msgid "Where you want to go after logout?"
+msgstr ""
+
+#: options.php:75
+msgid "Current URL"
+msgstr ""
+
+#: options.php:75
+msgid "Customise URL"
+msgstr ""

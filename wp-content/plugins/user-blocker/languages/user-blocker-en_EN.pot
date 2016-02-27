@@ -1,0 +1,797 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Blocker\n"
+"POT-Creation-Date: 2015-12-09 17:20+0530\n"
+"PO-Revision-Date: 2015-12-09 17:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: solwininfotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_ex;_nx;esc_attr_e;"
+"_n_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/"
+"plugins/user-blocker\n"
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:265
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:266
+msgid "Enjoyed this plugin?"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:267
+msgid " You can help by"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:269
+msgid " rating this plugin on wordpress.org"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:273
+msgid "Downloads:"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:278
+msgid "Need Support?"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:279
+msgid "Check out the"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:280
+msgid "FAQs"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:281
+msgid "and"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:282
+msgid "Support Forums"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:286
+msgid "Share & Follow Us"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:326
+msgid "Our Other Works"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:333
+msgid "Avartan Premium Slider Plugin"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:336
+msgid ""
+"Avartan Slider is a great way to create stunning text, image and video "
+"slider for your WordPress websites."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:503
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2132
+msgid "Blocked User list"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:516
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1277
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1706
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2145
+msgid "Blocked User List By Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:516
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1278
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1707
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2146
+msgid "Blocked User List By Date"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:516
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1279
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1708
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2147
+msgid "Blocked User List Permanently"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:516
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1280
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1709
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2148
+msgid "Blocked User List"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:522
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1289
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1718
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2157
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3051
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4075
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4722
+msgid "Select User/Category: "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:524
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1291
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1720
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2159
+msgid "Users"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:525
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1292
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1721
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2160
+msgid "Roles"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:529
+msgid "items"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:535
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1302
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1731
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2170
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3065
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4089
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4736
+msgid "of"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:546
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1313
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1742
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2181
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3078
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4102
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4749
+msgid "Select Role: "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:548
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1315
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1744
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2183
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3080
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4104
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4751
+msgid "All Roles"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:567
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1333
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1762
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2204
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3098
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4122
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4769
+msgid "username or email or first name"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:568
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1334
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1763
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2205
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3099
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4123
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4770
+msgid "Search"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:569
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:621
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:902
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1335
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1375
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1505
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1764
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1801
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1916
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2206
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2247
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2369
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3100
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4124
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4771
+msgid "Reset"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:578
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:591
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:847
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:878
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1344
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1351
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1450
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1487
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1773
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1779
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1863
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1899
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2215
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2222
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2314
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2351
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3054
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3119
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3128
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3383
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3421
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4078
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4143
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4152
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4255
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4293
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4725
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4789
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4798
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4900
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4938
+msgid "Role"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:579
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:592
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:848
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:879
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3180
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3475
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3668
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5418
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5473
+msgid "Sunday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:580
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:593
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:849
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:880
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3181
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3476
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3669
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5419
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5474
+msgid "Monday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:581
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:594
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:850
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:881
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3182
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3477
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3670
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5420
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5475
+msgid "Tuesday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:582
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:595
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:851
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:882
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3183
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3478
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3671
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5421
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5476
+msgid "Wednesday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:583
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:596
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:852
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:883
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3184
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3479
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3672
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5422
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5477
+msgid "Thursday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:584
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:597
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:853
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:884
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3185
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3480
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3673
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5423
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5478
+msgid "Friday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:585
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:598
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:854
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:885
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3186
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3481
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3674
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5424
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5479
+msgid "Saturday"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:586
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:599
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:855
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:886
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1346
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1353
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1452
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1489
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1774
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1780
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1864
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1900
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2216
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2223
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2315
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2352
+msgid "Message"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:632
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:642
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:646
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:657
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:667
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:671
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:682
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:692
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:696
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:707
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:717
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:721
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:732
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:742
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:746
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:757
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:767
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:771
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:782
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:792
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:796
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:917
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:927
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:931
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:942
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:952
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:956
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:967
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:977
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:981
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:992
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1002
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1006
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1017
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1027
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1031
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1042
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1052
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1056
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1067
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1077
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1081
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3197
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3207
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3217
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3227
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3237
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3247
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3257
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3267
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3277
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3287
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3297
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3307
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3317
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3327
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3492
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3502
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3512
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3522
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3532
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3542
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3552
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3562
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3572
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3582
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3592
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3602
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3612
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3622
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4196
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4339
+msgid "not set"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:638
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:663
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:688
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:713
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:738
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:763
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:788
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:923
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:948
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:973
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:998
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1023
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1048
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1073
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3203
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3223
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3243
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3263
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3280
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3303
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3323
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3498
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3518
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3538
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3558
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3578
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3598
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3618
+msgid " to "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:813
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:820
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1935
+msgid "No records Found."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:829
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:860
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1420
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1457
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1833
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1869
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2284
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2321
+msgid "S.N."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:843
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:874
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1434
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1471
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1847
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1883
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2298
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2335
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3053
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3367
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3405
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4077
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4239
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4277
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4724
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4884
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4922
+msgid "Username"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1098
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1404
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1411
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1817
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1824
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2268
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2275
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2391
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3639
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4210
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5004
+msgid "No records found."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1171
+msgid "Invalid user for reset blocking time."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1263
+msgid "Date Wise Blocked User list"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1345
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1352
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1451
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1488
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4144
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4153
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4256
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4294
+msgid "Block Date"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1440
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1477
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1853
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1889
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2304
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2341
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3373
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3411
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4245
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4283
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4890
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4928
+msgid "Name"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1446
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1483
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1859
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1895
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2310
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2347
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3379
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3417
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4251
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4289
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4896
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4934
+msgid "Email"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1539
+msgid "No Record Found."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:1693
+msgid "Permanently Blocked User list"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2013
+msgid "Invalid user for reset blocking."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2164
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4083
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4730
+msgid "Items"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2217
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2224
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2316
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2353
+msgid "Block Data"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2471
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3750
+msgid "You are temporary blocked."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2606
+msgid "Update for user with username: "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2610
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4496
+msgid "User with "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2610
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4496
+msgid " userid is not exist."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2797
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2815
+msgid "Blocking time for "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2797
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2815
+msgid " is successfully updated."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2852
+msgid "Role wise time blocking is successfully added."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2860
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3916
+msgid "Please select atleast one role."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2878
+msgid "Username wise time blocking is successfully added."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2885
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3943
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4612
+msgid "Please select atleast one username."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2896
+msgid "Please add from time for respected to time."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2912
+msgid "Please enter valid time format."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:2928
+msgid "Time can't be blank."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3041
+msgid "Block Users By Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3042
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4066
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4713
+msgid "Block User By Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3042
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4066
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4713
+msgid "Block User By Date"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3042
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4066
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4713
+msgid "Block User Permanent"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3120
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3129
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3384
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3422
+msgid "Block Time"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3121
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3130
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3385
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3423
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3717
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4145
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4154
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4257
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4295
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4387
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4791
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4800
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4901
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4939
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5025
+msgid "Block Message"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3122
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3131
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3386
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3424
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4146
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4155
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4258
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4296
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4792
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4801
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4903
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4941
+msgid "Action"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3664
+msgid "Block Time "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3679
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3685
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3690
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3695
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3700
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3705
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3710
+msgid "to"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3715
+msgid "Apply to all"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3723
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5031
+msgid "Note: If you will not type message, default message will be "
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3733
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4403
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5041
+msgid "Cancel"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3937
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4606
+msgid "Selected users have beeen blocked succeefully."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:3952
+msgid "Please enter valid block date."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4065
+msgid "Block Users By Date"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4354
+msgid "No records Founds."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4365
+msgid "This user is blocked for below time:"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4393
+msgid ""
+"Note: If you will not type message, default message will be 'You are "
+"temporary blocked.'"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4425
+msgid "Block User"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4440
+msgid "You are permanently Blocked."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4480
+msgid "Update Blocked User"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4570
+msgid "Selected roles have beeen blocked succeefully."
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4712
+msgid "Block Users Permanently"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4790
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4799
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4902
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:4940
+msgid "Status"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5070
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5116
+msgid "<strong>ERROR</strong>:"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5416
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5471
+msgid "Blocked Day Detail"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5439
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5494
+msgid "Blocked Date Detail:"
+msgstr ""
+
+#: /opt/lampp/htdocs/gaurangsvn/wp-plugins/wp-content/plugins/user-blocker/user_blocker.php:5636
+msgid "Settings"
+msgstr ""

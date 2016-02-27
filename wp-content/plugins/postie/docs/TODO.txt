@@ -1,0 +1,96 @@
+AddOn Ideas
+CSS Inliner - use one of the online services to convert class styled html to inline styles. https://www.google.com/search?q=css+inline+tool&oq=css+inline+tool
+Automatic updates for AddOns: 
+    https://github.com/seedprod/sellwp-updater
+    http://code.tutsplus.com/series/create-a-license-controlled-theme-and-plugin-update-system--cms-760
+
+Other
+allow other roles access to manual check like "Roles That Can Post"
+Add setting to not remove category text from subject/title
+Test server port combination by opening a socket connection to see if any service responds. (via ajax call)
+gallery logic does not handle both images and non-images
+send email notice when attachments are rejected.
+For IMAP mailboxes allow the user to choose the folder.
+Preferred text type: just html, just plain, html fallback to plain
+Check to see if post already exists. Store hash in custom field.
+Change successful post message to take post status into account (i.e. draft really isn't posted - possible link to publish draft?)
+Verify that WP is honoring the wp_set_current_user() call. I.e. if the user is not an "author" role can they publish?
+Option to not process forwarded emails (getPostAuthorDetails)
+Add Message-ID header value to custom field (postie_message_id?) to both posts and comments.
+Use In-Reply-To header value as a better way to detect replies
+Verify that {TITLE} is doing the right thing.
+automatically create category if it doesn't exist. new option to allow this feature?
+Comment not being created when subject contains category command []. I.e. listserv subject lines
+date: tag is being detected in body when not wanted
+Update tag_* and filter_* to handle HTML (per tag_Tags)
+dynamically determine video size (height/width) - https://code.google.com/p/phpvideotoolkit/
+plugin conflict - Image Rotation Fixer/Image Rotation Repair
+readme tips http://wp.smashingmagazine.com/2011/11/23/improve-wordpress-plugins-readme-txt/
+review http://codex.wordpress.org/Settings_API
+use wordpress plugin template
+  boilerplate http://wppb.io/
+  starter-plugin https://github.com/mattyza/starter-plugin
+  WordPress-Plugin-Template https://github.com/hlashbrooke/WordPress-Plugin-Template
+configurable message for "post confirmation" - variable substitution
+
+Hooks
+add hooks for post meta data change
+  post type
+  post format
+  category
+  date
+  comment control
+  excerpt
+  tags
+  author
+add hooks for content changes
+  attachment template
+  subject/title
+  post begin
+  post end
+  signature strip
+hook for actions
+  post failure
+  post success
+  media attachment
+  unpermitted attachment types
+  email rejected
+  email connection failure
+  mail read
+  mail delete
+  content part
+collect and send last debug log and system info (see http://wordpress.org/plugins/send-system-info/)
+Support EXIF orientation via PHP Exif Library https://github.com/lsolesen/pel
+
+=========
+Revised parsing logic
+
+convert all logic to filters
+before session filter
+before mail filter
+email/account filter
+attachment filter
+iterate through each html element (p, div, etc) and apply all filters and buffer output
+after mail filter
+after session filter
+
+convert plain text to html using same logic as wp - i.e. all text is html
+Original text is never modified
+There are filters that modify
+  meta data (tags, categories, date)
+  content (start, end, newlines, linkifying)
+
+=========
+Postie 2.0
+
+http://www.yaconiello.com/blog/how-to-write-wordpress-plugin/
+
+setting to turn off individual tags
+process single email at a time and don't delete unless successful
+fix postie settings	http://alisothegeek.com/2011/01/wordpress-settings-api-tutorial-1/
+Make sure all failures are sent to admin (option?) failed attachments, etc.
+Option to send logs to support
+Enhance #img# to specify the featured image
+"yoast" style admin sidebar - see clicky by yoast
+replace native imap MIME parser with flourish - http://flourishlib.com/docs/fMailbox or Hoard http://dev.horde.org/imap_client/install.php - see "Post By Email" plugin https://wordpress.org/plugins/post-by-email/
+provide a location for custom icons. update docs about location.

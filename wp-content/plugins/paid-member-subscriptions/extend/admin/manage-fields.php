@@ -1,0 +1,105 @@
+<?php
+
+
+    /*
+     * Add extra field properties for the Subscription Plans PB field
+     *
+     * @param array $manage_fields
+     *
+     * @return array
+     *
+     */
+    function pms_pb_manage_fields( $manage_fields ) {
+
+        // Get all subscription plans
+        $subscription_plans = array();
+        foreach( pms_get_subscription_plans() as $subscription_plan )
+            $subscription_plans[] = '%' . $subscription_plan->name . '%' . $subscription_plan->id;
+
+
+        // Prepare subscription plans for default select
+        $subscription_plans_select = array( '%' . __( 'Choose...', 'paid-member-subscriptions' ) . '%-1' );
+        $subscription_plans_select = array_merge( $subscription_plans_select, $subscription_plans );
+
+        // Append field properties
+        if ( empty($subscription_plans) )
+            $manage_fields[] = array( 'type' => 'checkbox', 'slug' => 'subscription-plans', 'title' => __( 'Subscription Plans on Register Form', 'paid-member-subscriptions' ), 'options' => $subscription_plans, 'description' => sprintf( __( 'It looks like there are no active subscriptions. %1$sCreate one here%2$s.', 'paid-member-subscriptions' ),'<a href="edit.php?post_type=pms-subscription">', '</a>') );
+        else
+            $manage_fields[] = array( 'type' => 'checkbox', 'slug' => 'subscription-plans', 'title' => __( 'Subscription Plans on Register Form', 'paid-member-subscriptions' ), 'options' => $subscription_plans, 'description' => __( "Select which Subscription Plans to show to the user on the register forms ( drag and drop to re-order )", 'paid-member-subscriptions' ) );
+        $manage_fields[] = array( 'type' => 'text', 'slug' => 'subscription-plans-sort-order', 'title' => __( 'Subscription Plans Order', 'paid-member-subscriptions' ), 'description' => __( "Save the subscription plan order from the subscription plans checkboxes", 'paid-member-subscriptions' ) );
+
+        if( count( $subscription_plans_select ) > 1 )
+            $manage_fields[] = array( 'type' => 'select', 'slug' => 'subscription-plan-selected', 'title' => __( 'Selected Subscription Plan', 'paid-member-subscriptions' ), 'options' => $subscription_plans_select, 'description' => __( "Select which plan will be by default selected when the front-end form loads.", 'paid-member-subscriptions' ) );
+
+        return $manage_fields;
+
+    }
+    add_filter( 'wppb_manage_fields', 'pms_pb_manage_fields' );
+
+
+    /*
+     * Include necessary scripts for Profile Builder compatibility
+     *
+     */
+    function pms_pb_enqueue_scripts() {
+
+        if( is_admin() )
+            wp_enqueue_script( 'pms-pb-main-js', PMS_PLUGIN_DIR_URL . 'extend/assets/js/main.js', array( 'jquery' ) );
+
+    }
+    add_action( 'admin_enqueue_scripts', 'pms_pb_enqueue_scripts' );
+
+
+    /*
+     * Function that ads the Subscription Plans field to the fields list
+     * and also the list of fields that skip the meta-name check
+     *
+     * @param array $fields     - The names of all the fields
+     *
+     * @return array
+     *
+     */
+    function pms_pb_manage_field_types( $fields ) {
+        $fields[] = 'Subscription Plans';
+
+        return $fields;
+    }
+    add_filter( 'wppb_manage_fields_types', 'pms_pb_manage_field_types' );
+    add_filter( 'wppb_skip_check_for_fields', 'pms_pb_manage_field_types' );
+
+
+    /**
+     * Function that calls the pms_pb_handle_subscription_plans_field
+     *
+     * @since v.2.0
+     *
+     * @param void
+     *
+     * @return string
+     */
+    function pms_pb_subscription_plans_sortable( $meta_name, $id, $element_id ){
+        if ( $meta_name == 'wppb_manage_fields' ) {
+            echo "<script type=\"text/javascript\">pms_pb_handle_sorting_subscription_plans_field( '#container_wppb_manage_fields' );</script>";
+        }
+
+    }
+    add_action("wck_after_adding_form", "pms_pb_subscription_plans_sortable", 10, 3);
+
+/**
+ Function that displays a message in PB backend for the Subscription Plans field if Email Confirmation or Admin Approval are set to yes
+ */
+
+function pms_display_notice_for_email_confirmation_and_admin_approval( $form, $i, $value ){
+    global $wppb_results_field;
+
+    if ( $wppb_results_field == 'Subscription Plans' || strpos( $value, '( Subscription Plans )' ) !== false ){
+        $wppb_generalSettings = get_option( 'wppb_general_settings' );
+        if( ( !empty( $wppb_generalSettings['emailConfirmation'] ) && $wppb_generalSettings['emailConfirmation'] == 'yes' ) || ( !empty( $wppb_generalSettings['adminApproval'] ) && $wppb_generalSettings['adminApproval'] == 'yes' ) )
+            $form .= '<div id="wppb-display-name-nag" class="wppb-backend-notice">' . __( 'For the moment the "Subscription Plans" field is not compatible with Email Confirmation or Admin Approval if they are set to yes', 'paid-member-subscriptions' ) . '</div>';
+    }
+
+    return $form;
+}
+add_filter( "wck_before_listed_wppb_manage_fields_element_0", 'pms_display_notice_for_email_confirmation_and_admin_approval', 10, 3 );
+add_filter( "wck_before_listed_wppb_epf_fields_element_0", 'pms_display_notice_for_email_confirmation_and_admin_approval', 10, 3 );
+add_filter( "wck_before_listed_wppb_rf_fields_element_0", 'pms_display_notice_for_email_confirmation_and_admin_approval', 10, 3 );

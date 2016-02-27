@@ -1,0 +1,44 @@
+/*
+    Document   : style.css
+    Author     : The Hidden Code
+    Description: Styles for the administation menu
+*/
+
+p.formlabel{
+	cursor:default;
+	font-size: 14px;
+	line-height: 20px;
+}
+p.formlabel input{
+	cursor:pointer;
+}
+input[type=checkbox].mr22{
+	margin-right:22px;
+}
+.clearall{
+	clear:both;
+}
+table.form-table{
+	width:80%;
+}
+.field-code{
+	font-family:monospace;
+	font-size:12px;
+	white-space:pre;
+}
+form.donate{
+	background: none repeat scroll 0 0 #FFFFCC;
+    border: 1px solid #AAAA22;
+    padding: 5px;
+    position: absolute;
+    right: 10px;
+	}
+form.donate h3{
+	text-align:center;margin:0;
+	}
+.CodeMirror {
+	border: 1px solid #DDDDDD; 
+}
+.codemirrorfootnote{
+	font-size:0.8em;float:right;
+}

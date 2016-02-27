@@ -1,0 +1,425 @@
+/* General setting for this plugin only */
+.aligntextcenter {
+    text-align: center !important;
+}
+#username {
+    float: left;
+    width: 100%;
+    table-layout: auto;
+}
+#username table.fixed {
+    clear: none !important;
+    float: left !important;
+}
+.widefat.post.fixed td.check-column {
+    padding: 6px 10px;
+}
+.widefat .sr-no {
+    width: 27px;
+}
+.form-table.tbl-timing {
+    border-collapse: collapse;
+}
+.form-table.tbl-timing td {
+    padding: 15px 0;
+    border: 1px solid #e1e1e1;
+}
+.form-table.tbl-timing th {
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: 1px solid #e1e1e1;
+    line-height: 2;
+}
+.tbl-timing td {
+    padding-bottom: 0;
+}
+.tbl-timing h3 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.time-field {
+    width: 70px;
+}
+.week-lbl {
+    width: 100px;
+}
+.week-time {
+    width: 300px;
+}
+.filter_div {
+    float: left;
+}
+.filter_div input[name="txtUsername"] {
+    width: 250px;
+}
+.role_records {
+    display: none;
+    width: 300px;
+}
+.cover_form {
+    background: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 0 0 5px 5px;
+    float: left;
+    padding: 20px;
+    width:76%;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+.tab_parent li a.current {
+    position: relative;
+    bottom: -1px;
+    padding-top: 12px;
+}
+.tab_parent_parent {
+    float: left;
+    margin-bottom: 0;
+    width: 76%;
+}
+.tab_parent {
+    float: left;
+}
+.tab_parent > ul {
+    margin: 0;
+}
+.striped > tbody > *:nth-child(2n+1), ul.striped > *:nth-child(2n+1){
+    background: #fff;
+}
+.striped tbody tr.view_block_data_tr{
+    background: #eeeeee !important;
+}
+.striped tbody tr.alt{
+    background: #f9f9f9 !important;
+}
+.view_block_data_tr .view_block_table.form-table.tbl-timing{
+    margin-top: 0;
+}
+.tab_parent li {
+    /*display: inline-block;*/
+    display: table-cell;
+    font-size: 18px;
+    margin: 0;
+}
+.tab_parent ul li:first-child a {
+    border-left: 1px solid #cccccc;
+    border-radius: 5px 0 0;
+}
+.tab_parent ul li:last-child a {
+    border-radius: 0 5px 0 0;
+}
+.tab_parent a {
+    background: none repeat scroll 0 0 #f1f1f1;
+    border-right: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+    color: #484848;
+    display: block;
+    padding: 11px 19px;
+    text-decoration: none;
+    position: relative;
+    z-index: 1;
+}
+.tab_parent a:hover {
+    color: #484848;
+}
+.admin_page_block_user_permenant #wpcontent,
+.toplevel_page_block_user #wpcontent,
+.admin_page_block_user_date #wpcontent,
+.user-blocker_page_blocked_user_list #wpcontent,
+.admin_page_datewise_blocked_user_list #wpcontent, 
+.admin_page_permanent_blocked_user_list #wpcontent,
+.admin_page_all_type_blocked_user_list #wpcontent {
+/*    background: #ffffff;
+    height: auto;*/
+}
+.tr_head {
+    background: #fff;
+}
+.form-table.tbl-timing {
+    background: #fff;
+}
+.tab_parent a.current {
+    background: #ffffff;
+}
+.block_msg_left {
+    float: left;
+}
+.block_msg_note_div {
+    clear: both;
+    float: left;
+    margin-top: 10px;
+}
+.user_lbl {
+    border: 1px solid #ccc;
+    border-bottom: none;
+    border-radius: 5px 0 0 0;
+    padding: 6px 10px;
+    background: #fff;
+    font-size: 16px;
+    float: left;
+}
+.user_lbl:first-child {
+    border-right: none;
+}
+.user_lbl:last-child {
+    border-radius: 0 5px 0 0;
+}
+#frmBlockUser .tablenav.top {
+    margin: 0;
+}
+.search_div {
+    margin: 12px 0;
+}
+.chkapply {
+    margin-top: 6px;
+    float: right;
+}
+.wp-core-ui .button.primary-button {
+    background: none repeat scroll 0 0 #4a4a4a;
+    border: medium none;
+    color: #ffffff;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.wp-core-ui .button.primary-button:hover {
+    background: none repeat scroll 0 0 #4a4a4a;
+    color: #ffffff;
+}
+.view_block_table {
+    width:100%;
+}
+.view_block_table.form-table.tbl-timing td {
+    padding: 10px 0;
+}
+.view_block_table.form-table.tbl-timing {
+    background: none repeat scroll 0 0 #f8f8f8;
+}
+.view_block_data_tr {
+    display: none;
+}
+a.view_block_data:focus {
+    box-shadow: none;
+}
+.block_msg_title {
+    float: left;
+    width: 100%;
+}
+.block_msg_title span {
+    background: #C11B17;
+    color: #ffffff;
+    padding: 3px 7px;
+}
+.check-column {
+    width: 25px;
+}
+.blk-date {
+    width: 180px;
+}
+.tbl-action {
+    width: 50px;
+}
+.user-role {
+    width: 150px;
+}
+.th-name {
+    width: 125px;
+}
+.th-email {
+    width: 190px;
+}
+.day-table {
+    border-left: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+    float: left;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    background: #fff;
+}
+.days {
+    text-align: center;
+    width: 140px;
+    border-right: 1px solid #cccccc;
+    float: left;
+}
+.days span {
+    display: block;
+    padding: 3px 5px;
+    border-bottom: 1px solid #cccccc;
+}
+.search_box div.actions {
+    clear: both;
+    float: left;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.search_box div.actions:last-child {
+    padding-bottom: 10px;
+}
+.search_box div.actions:first-child {
+    width: 100%;
+    padding-right: 0;
+}
+#blocked-list .widefat td,
+#blocked-list .widefat th {
+    padding: 8px 5px;
+}
+.th-role{
+    width: 90px;
+}
+.th-username {
+    width: 120px;
+}
+.th-time {
+    width: 80px;
+}
+.role_records .th-time {
+    width: 127px;
+}
+.th-time {
+    width: 80px;
+}
+.block_msg_title {
+    float: left;
+    width: 100%;
+}
+.role_records th.th-time {
+    width:99px;
+}
+.admin_page_datewise_blocked_user_list .users_records .th-time,
+.admin_page_permanent_blocked_user_list .role_records .th-time {
+    width:200px;
+}
+.admin_page_permanent_blocked_user_list .sr-no,.admin_page_datewise_blocked_user_list .sr-no {
+    width:40px;
+    text-align: center;
+}
+.date_detail_row .tbl-timing {
+    margin-top: 0;
+}
+.tbl-timing label {
+    color: #df0000;
+}
+.view_block_data_tr {
+    display: table-row;
+    display: none;
+}
+#frmSearch > .actions select {
+    float: none;
+}
+#blocked-list th.sortable a {
+    padding-left: 0;
+    padding-right: 0;
+}
+td.check-column > input {
+    margin-top: 5px !important;
+}
+/*--------- To add help sidebar-------*/
+.td-admin-sidebar {
+    width: 22%;
+    float: left;
+}
+.td-help {
+    border: 2px solid #008000;
+    padding: 10px;
+    border-radius: 3px;
+    background: #fff;
+}
+.td-help > h2 {
+    margin-bottom: 15px;
+    margin-top: 0;
+    padding: 0;
+}
+.trash-duplicates-inner {
+    width: 74%;
+    float: left;
+    margin-right: 20px;
+}
+.td-total-download .star-rating {
+    display: inline-block;
+    float: right;
+}
+.td-total-download {
+    margin-top: 50px;
+}
+.td-support,
+.useful_plugins {
+    border: 1px solid #cccccc;
+    margin-top: 30px;
+    padding: 10px;
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 3px;
+}
+.td-support h3,
+.useful_plugins h3 {
+    margin-top: 0 !important;
+    font-weight: normal;
+}
+.download-number,
+.useful_plugins a {
+    font-size: 16px;
+}
+ul.plugins_list li span {
+    display: inline-block;
+}
+ul.plugins_list li span.plugin_img,
+ul.plugins_list li span.plugin_img img {
+    width: 100%;
+}
+#username th.check-column > input {
+    margin-top: 18px;
+}
+.blk-msg {
+    width: 100px;
+}
+#blocked-list .tab_parent_parent, #blocked-list .cover_form {
+    width: 100%;
+    margin: 0;
+}
+.tbl-timing .week-time input.time {
+    width: 85%;
+}
+.subscribe_widget {
+    margin: 10px;
+}
+.sub_row {
+    margin: 10px 0;
+    line-height: 1.7;
+}
+.sub_row label {
+    display: inline-block;
+    min-width: 100px;
+}
+.success_msg {
+    color: green;
+}
+.sub_row > input {
+    height: 37px;
+    width: 327px;
+}
+.sub_row > input {
+    height: 37px;
+    width: 310px;
+}
+.subscribe_widget .button.button-primary {
+    font-size: 16px;
+    height: 40px;
+    width: 240px;
+}
+.subscribe_widget .button.button-delete {
+    font-size: 16px;
+    height: 40px;
+    width: 167px;
+}
+.sub_row .sub_checkbox {
+    width:15px;
+    height: auto;
+    margin: 0 6px 0 0;
+}
+.sub_row_checkbox {
+    margin: 15px 0;
+}
+.block_msg_div textarea{
+    resize: vertical;
+    min-height: 110px;
+}

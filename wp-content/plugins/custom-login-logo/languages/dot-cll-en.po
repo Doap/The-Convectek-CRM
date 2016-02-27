@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Logon Logo 1.0\n"
+"POT-Creation-Date: 2013-05-26 21:08+0530\n"
+"PO-Revision-Date: 2013-05-26 21:08+0530\n"
+"Last-Translator: DOT <hello@dreamsmedia.in>\n"
+"Language-Team: DOT <hello@dreamsmedia.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\wamp\\www\\dreamsonline\\wp-content\\plugins\\custom-"
+"login-logo\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\dreamsonline\\wp-content\\plugins"
+"\\custom-login-logo\n"
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:98
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:99
+msgid "Custom Login Logo"
+msgstr ""
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:133
+msgid "Login Logo Settings"
+msgstr ""
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:135
+msgid "Upload Login Logo"
+msgstr ""
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:137
+msgid "Set Logo Height"
+msgstr ""
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:153
+msgid "Custom Login Logo Settings"
+msgstr ""
+
+#: D:\wamp\www\dreamsonline\wp-content\plugins\custom-login-logo/custom-login-logo.php:160
+msgid "Save Changes"
+msgstr ""

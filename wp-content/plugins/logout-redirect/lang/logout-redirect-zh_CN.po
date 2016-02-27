@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Logout Redirect\n"
+"POT-Creation-Date: 2014-03-05 19:54+0800\n"
+"PO-Revision-Date: 2014-03-05 19:55+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: logout-redirect.php:48
+msgid "Settings"
+msgstr "设置"
+
+#: options.php:11 options.php:66
+msgid "Logout Redirect Options Page"
+msgstr "Logout Redirect 设置页面"
+
+#: options.php:11
+msgid "Logout Redirect"
+msgstr "Logout Redirect"
+
+#: options.php:69
+msgid "General Options"
+msgstr "一般设置"
+
+#: options.php:73
+msgid "Where you want to go after logout?"
+msgstr "登出后跳转的链接："
+
+#: options.php:75
+msgid "Current URL"
+msgstr "当前链接"
+
+#: options.php:75
+msgid "Customise URL"
+msgstr "自定义链接"
+
+#~ msgid "You can go to your latest post by %s or using function %s"
+#~ msgstr "你可以通过 %s 或使用PHP Function %s 来前往你的最新文章"
+
+#~ msgid "You can go to your latest post by: "
+#~ msgstr "前往最新文章的地址："
+
+#~ msgid "Use Wordpress Function"
+#~ msgstr "使用Wordpress自带Function"
+
+#~ msgid "Use MYSQL Command"
+#~ msgstr "使用MYSQL命令"
+
+#~ msgid "(If you don't know what it means, leave it as default)"
+#~ msgstr "（如果你不清楚这是什麽，请保持默认）"
+
+#~ msgid "Status of post you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章状态："
+
+#~ msgid "Publish Post"
+#~ msgstr "已发表文章"
+
+#~ msgid "Draft"
+#~ msgstr "草稿"
+
+#~ msgid "Future Post"
+#~ msgstr "未来发表文章"
+
+#~ msgid "Private Post"
+#~ msgstr "私密文章"
+
+#~ msgid "Type you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章种类："
+
+#~ msgid "Post"
+#~ msgstr "文章"
+
+#~ msgid "Page"
+#~ msgstr "页面"
